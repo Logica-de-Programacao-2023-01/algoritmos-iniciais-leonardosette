@@ -1,0 +1,9 @@
+1. Identificar o número.
+
+2. Sendo o n! o númerooriginal
+
+3. Utilizar a fórmula n! = n · (n – 1)· (n – 2)...
+até o produto desse número atingir o produto de 1
+ 
+
+
