@@ -1,0 +1,4 @@
+1. leia x
+2. leia y
+3. soma = x+y
+4. escreva a soma
