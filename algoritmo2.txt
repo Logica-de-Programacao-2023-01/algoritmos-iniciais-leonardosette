@@ -1,0 +1,12 @@
+Conversão de temperatura de fahrenheit para celsius 
+
+1. Se estiver em Fahrenheit
+2. Leia F
+3. Resolva F na fórmula F-32/1.8
+
+Conversão de Celsius para Fahrenheit
+
+1. Se estiver em celsius
+2. Leia C
+3. Resolva C na fórmula C x 1,8 +32
+
