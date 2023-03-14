@@ -1,0 +1,6 @@
+1, leia x
+2. leia potencia
+3. var resultado = x
+4. para cada número entre 1 e x, faça
+5. resultado = resultado *x
+6. escreva potencia

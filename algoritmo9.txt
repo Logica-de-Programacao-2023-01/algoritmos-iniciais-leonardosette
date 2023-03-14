@@ -1,0 +1,7 @@
+1. leia capital inicial
+2. leia taxa_juros
+3. leia campo
+4. var resultado = capital_financeiro
+5. para cada número entre 1 e tempo, faça
+6. resultado = resultado + (resultado * taxa_juros)
+7. escreva resultado

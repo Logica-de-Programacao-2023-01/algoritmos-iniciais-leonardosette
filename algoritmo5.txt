@@ -1,0 +1,7 @@
+1. leia x
+2. leia lisa
+3. para cada elemento da list, faça
+4.  se o elemento for igual a x, então
+5.  escreva x
+6. fim
+7. escreva "não encontrei"
