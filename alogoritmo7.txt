@@ -1,0 +1,6 @@
+1. leia x
+2. para cada numero entre 2 e x-1, faça
+3. se x dividido por numero_atual tem resto 0
+4. escreva n"ao é primo
+5. fim
+6. escreva "é primo"
